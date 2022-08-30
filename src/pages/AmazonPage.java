@@ -7,4 +7,6 @@ public class AmazonPage {
     //create a pages
 
     // updated the page
+
+    //html for cart page
 }
